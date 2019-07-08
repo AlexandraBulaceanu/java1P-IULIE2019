@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Produs
+comment1.params=nume\ pret\ categorie
+comment1.target=Produs(java.lang.String,\ double,\ java.lang.String)
+numComments=2
